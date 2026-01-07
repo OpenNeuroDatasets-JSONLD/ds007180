@@ -1,0 +1,11 @@
+{
+	"Authors": [
+		"Águeda Fuentes-Guerra",
+		"Elisa Martín Arévalo",
+		"Freek van Ede",
+		"Carlos González-García"
+	],
+	"BIDSVersion": "1.4.0",
+	"DatasetType": "raw",
+	"Name": "Exo-EEG Experiment"
+}
